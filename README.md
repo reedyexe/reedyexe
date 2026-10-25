@@ -1,1 +1,1 @@
-<img src="test.png">   
+<img src="test.png" max-width=100% >   
