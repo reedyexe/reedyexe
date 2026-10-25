@@ -1,1 +1,3 @@
-<img src="test.png" max-width=100% >   
+<img src="test.png">
+<img src="test2.png"> 
+<img src="test3.png"> 
